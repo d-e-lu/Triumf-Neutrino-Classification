@@ -1,2 +1,6 @@
 /home/dyl055/projects/rpp-tanaka-ab/machine_learning/data/IWCDmPMT_4pi_full_tank/numpy_new/mu-/E0to1000MeV/unif-pos-R371-y521cm/4pi-dir/IWCDmPMT_4pi_full_tank_mu-_E0to1000MeV_unif-pos-R371-y521cm_4pi-dir_3000evts_99.npz
 /home/dyl055/projects/rpp-tanaka-ab/machine_learning/data/IWCDmPMT_4pi_full_tank/numpy_new/mu-/E0to1000MeV/unif-pos-R371-y521cm/4pi-dir/IWCDmPMT_4pi_full_tank_mu-_E0to1000MeV_unif-pos-R371-y521cm_4pi-dir_3000evts_9.npz
+/home/dyl055/projects/rpp-tanaka-ab/machine_learning/data/IWCDmPMT_4pi_full_tank/numpy_new/gamma/E0to1000MeV/unif-pos-R371-y521cm/4pi-dir/IWCDmPMT_4pi_full_tank_gamma_E0to1000MeV_unif-pos-R371-y521cm_4pi-dir_3000evts_99.npz
+/home/dyl055/projects/rpp-tanaka-ab/machine_learning/data/IWCDmPMT_4pi_full_tank/numpy_new/gamma/E0to1000MeV/unif-pos-R371-y521cm/4pi-dir/IWCDmPMT_4pi_full_tank_gamma_E0to1000MeV_unif-pos-R371-y521cm_4pi-dir_3000evts_9.npz
+/home/dyl055/projects/rpp-tanaka-ab/machine_learning/data/IWCDmPMT_4pi_full_tank/numpy_new/e-/E0to1000MeV/unif-pos-R371-y521cm/4pi-dir/IWCDmPMT_4pi_full_tank_e-_E0to1000MeV_unif-pos-R371-y521cm_4pi-dir_3000evts_99.npz
+/home/dyl055/projects/rpp-tanaka-ab/machine_learning/data/IWCDmPMT_4pi_full_tank/numpy_new/e-/E0to1000MeV/unif-pos-R371-y521cm/4pi-dir/IWCDmPMT_4pi_full_tank_e-_E0to1000MeV_unif-pos-R371-y521cm_4pi-dir_3000evts_9.npz
